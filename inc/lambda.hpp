@@ -8,8 +8,8 @@
 #ifndef LAMBDA_HPP
 #define LAMBDA_HPP
 
-
-
+/** main header include files */
+#include "matrix.hpp"
 
 #endif
 

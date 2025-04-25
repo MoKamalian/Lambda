@@ -11,6 +11,12 @@
 /** main header include files */
 #include "matrix.hpp"
 
+namespace Lambda {
+
+    class Matrix;
+
+}
+
 #endif
 
 
